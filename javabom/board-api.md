@@ -38,13 +38,13 @@ Articles successfully retrieved.
     },
     {
       "type": "articles",
-      "id": "1",
+      "id": "2",
       "attributes": {
-        "title": "Initial Article",
-        "body": "This is content of article"
+        "title": "New Article",
+        "body": "This is content of new article"
       },
       "links": {
-        "self": "https://board-api/api/v1/articles/1"
+        "self": "https://board-api/api/v1/articles/2"
       }
     }
   ]
