@@ -1,8 +1,4 @@
----
-description: Board API
----
-
-# board-api
+# Board API
 
 {% api-method method="get" host="https://board-api" path="/api/v1/articles" %}
 {% api-method-summary %}
