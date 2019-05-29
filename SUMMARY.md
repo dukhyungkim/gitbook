@@ -4,5 +4,5 @@
 
 ## JavaBom
 
-* [board-api](javabom-1/board-api.md)
+* [board-api](javabom/board-api.md)
 
